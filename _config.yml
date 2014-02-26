@@ -1,4 +1,4 @@
-title:            Site Title
+title:            Leokmax的博客
 description:      Describe your website here.
 logo:             site-logo.png
 disqus_shortname: 
@@ -8,9 +8,9 @@ url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Leokmax
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          leeviixu@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       

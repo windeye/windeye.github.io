@@ -1,6 +1,7 @@
 title:            Leokmax的博客
 description:      Good Person Good Code
-logo:             site-logo.png
+#logo:             site-logo.png
+logo: 
 disqus_shortname: 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.

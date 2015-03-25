@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://windeye.github.io</loc>
+    </url>
+    
+    
+    <url>
+        <loc>http://windeye.github.io/404.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://windeye.github.io/about/</loc>
+    </url>
+    
+    <url>
+        <loc>http://windeye.github.io/articles/</loc>
+    </url>
+    
+    <url>
+        <loc>http://windeye.github.io/feed.xml</loc>
+    </url>
+    
+    <url>
+        <loc>http://windeye.github.io/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://windeye.github.io/search.json</loc>
+    </url>
+    
+    <url>
+        <loc>http://windeye.github.io/sitemap.xml</loc>
+    </url>
+    
+    <url>
+        <loc>http://windeye.github.io/tags/</loc>
+    </url>
+    
+    <url>
+        <loc>http://windeye.github.io/theme-setup/</loc>
+    </url>
+    
+
+    
+    <url>
+        <loc>http://windeye.github.io/first-page/</loc>
+    </url>
+    
+    <url>
+        <loc>http://windeye.github.io/articles/code-highlighting-post/</loc>
+    </url>
+    
+    <url>
+        <loc>http://windeye.github.io/articles/sample-link-post/</loc>
+    </url>
+    
+    <url>
+        <loc>http://windeye.github.io/articles/video-post/</loc>
+    </url>
+    
+    <url>
+        <loc>http://windeye.github.io/articles/readability-feature-post/</loc>
+    </url>
+    
+    <url>
+        <loc>http://windeye.github.io/articles/sample-post-images/</loc>
+    </url>
+    
+    <url>
+        <loc>http://windeye.github.io/articles/readability-post/</loc>
+    </url>
+    
+    <url>
+        <loc>http://windeye.github.io/articles/sample-post/</loc>
+    </url>
+    
+</urlset>

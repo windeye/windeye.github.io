@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "first page"
-modified: 2014-02-27 11:02:20 +0800
+title: "CPP11 new feature"
+modified: 2015-03-25 23:51:56 +0800
 tags: []
 image:
   feature: 
@@ -10,5 +10,3 @@ image:
 comments: 
 share: 
 ---
-
-#what's happend

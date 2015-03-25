@@ -2,7 +2,7 @@
 layout: post
 title: "C++11 new feature"
 modified: 2015-03-25 23:51:33 +0800
-tags: []
+tags: [C++]
 image:
   feature: 
   credit: 
